@@ -1,4 +1,3 @@
-from sklearn.ensemble import IsolationForest
 from numpy import random, where
 from sentence_transformers import SentenceTransformer
 import numpy as np
